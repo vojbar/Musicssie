@@ -1,12 +1,5 @@
 <h2>🎶 Musicssie</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu ultrices lectus. Donec risus ipsum, venenatis a nunc a, cursus lobortis felis. Etiam consectetur a nibh vel sodales. Praesent id odio dolor.
-
-- 🔊 Etiam dignissim vestibulum magna at pretium
-- 🎯 Donec imperdiet vulputate elementum
-- 🥳 Aliquam et dignissim nisi
-- 📚 Integer at augue mattis, egestas ante a, tempus leo
-
 ### 📄 List of commands and their status
 We plan to do some changes in certain commands.
 - 🛠 We will soon add playlist feature in commands /play and /playspotify
